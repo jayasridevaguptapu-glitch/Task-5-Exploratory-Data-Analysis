@@ -7,6 +7,7 @@ Perform Exploratory Data Analysis (EDA) on the Titanic dataset to identify patte
 - Python
 - Pandas
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ## Dataset
